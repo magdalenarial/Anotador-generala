@@ -1,5 +1,6 @@
 #Anotador Generala
+
 Technologies Used
-HTML5
+<b>HTML5
 CSS3
-JavaScript
+JavaScript</b>
